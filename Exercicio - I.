@@ -1,1 +1,5 @@
-
+a) Classes são como os structs na programação estruturada. Já os objetos, preenchem as classes com características distintas.
+b) Construtores são métodos especiais, os primeiros a serem chamados em uma classe.Possuem o mesmo nome da classe e já existe 
+um construtor padrão em c++.
+c) Minimza os erros de programação, evitando quebra de integridade dos dados, como por exemplo, evitar que usuários alterem uma variável
+saldo de uma conta bancária. Facilita a utilização do código.
